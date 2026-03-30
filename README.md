@@ -155,6 +155,19 @@ Frontend runs at:
 http://localhost:5173
 ```
 
+Credtionals for testing:
+- Admin
+```
+username: admin
+password: adminpass123
+```
+
+- User
+```
+username: testuser
+password: testpass123
+```
+
 ---
 
 ## 🔐 Authentication Flow
