@@ -3,6 +3,10 @@
 A full-stack task management application built with **FastAPI (backend)** and **React (frontend)**.
 It demonstrates authentication, role-based access control, and CRUD operations with a clean, scalable structure.
 
+<img width="1895" height="907" alt="image" src="https://github.com/user-attachments/assets/845c5409-b8f8-462e-ace0-ab01332d8d94" />
+<img width="1873" height="903" alt="image" src="https://github.com/user-attachments/assets/b3abe39d-c2be-451a-8280-353fb7cf9e04" />
+<img width="1890" height="908" alt="image" src="https://github.com/user-attachments/assets/3a3e90e5-d0ce-44bd-b3b2-24e024ac6e7a" />
+
 ---
 
 ## 🚀 Features
